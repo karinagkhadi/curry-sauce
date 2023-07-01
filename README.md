@@ -3,6 +3,33 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>My Personal Research Projects</title>
+</head>
+<body>
+  <h1>Thank you for your interest in my personal research projects!</h1>
+  <p>Explore more:</p>
+  <ol>
+    <li>
+      <strong>Data analysis of shootings in New York over the past 20 years</strong>
+      <br>
+      <em>Tools used: Python</em>
+    </li>
+    <li>
+      <strong>Data analysis on the current exposure of rental housing in Moscow (June 2023)</strong>
+    </li>
+  </ol>
+</body>
+</html>
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
 </head>
 <body>
   <h1>Проект по анализу данных на Python "Исследование статистики шутингов в Нью-Йорке за последние 20 лет"</h1>

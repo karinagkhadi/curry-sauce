@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Personal Research Projects</title>
+  <title>Thank you for your interest in my personal research projects</title>
   <style>
     .smaller-font {
       font-size: 8px;

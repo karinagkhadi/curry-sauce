@@ -4,10 +4,15 @@
 <html>
 <head>
   <title>My Personal Research Projects</title>
+  <style>
+    .smaller-font {
+      font-size: 14px;
+    }
+  </style>
 </head>
 <body>
   <h1>Thank you for your interest in my personal research projects!</h1>
-  <p>Explore more:</p>
+  <p class="smaller-font">Explore more:</p>
   <ol>
     <li>
       <strong>Data analysis of shootings in New York over the past 20 years</strong>

@@ -6,7 +6,7 @@
   <title>My Personal Research Projects</title>
   <style>
     .smaller-font {
-      font-size: 10px;
+      font-size: 8px;
     }
   </style>
 </head>

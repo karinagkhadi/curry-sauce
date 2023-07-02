@@ -13,12 +13,12 @@
 <head>
 </head>
 <body>
-  <h2>                        Research on Shooting Statistics in New York City Over the Past 20 Years</h2>
-  <h3>team:</h3>
+  <h2></h2>
+  <h3></h3>
   <ul>
-    <li>Karina Gkhadi</li>
-    <li>[Margarita Dzjuraeva](https://github.com/djri007) </li>
-    <li>Laura Nikogosyan</li>
+    <li></li>
+    <li> </li>
+    <li></li>
     
   </ul>
   <h2>Описание проекта</h2>

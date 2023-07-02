@@ -18,9 +18,12 @@ We analyzed the statistics of shootings in New York over the past 20 years. We u
 2. Calculation of the distance to the nearest hospital for each incident
 3. EDA (exploratory data analysis)
 4. Visualisation and search for patterns
-5. Hypothesis testing
-6. Training ML model to predict shooting mortality based on the parameters of the incident
-7. Conclusions and interpretation of results
+--- 
+==> [see more]()
+---
+6. Hypothesis testing
+7. Training ML model to predict shooting mortality based on the parameters of the incident
+8. Conclusions and interpretation of results
 
 
 

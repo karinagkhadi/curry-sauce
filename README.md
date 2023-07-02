@@ -6,10 +6,8 @@ ______
 <!DOCTYPE html>
 <html>
 <head>
-  <title>
-</head>
 <body>
-  <h1>Thank you for your interest in my personal research projects!</h1>
+  <h1>
   <p class="smaller-font">Explore more:</p>
   <ol>
     <li>

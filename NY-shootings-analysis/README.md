@@ -21,8 +21,7 @@ We analyzed the statistics of shootings in New York over the past 20 years. We u
 
 #### ==> [Data preprocessing and visualization](https://github.com/karinagkhadi/curry-sauce/blob/ec30d6b706a7b9942b5eea922df2f4ef587ec0a3/NY-shootings-analysis/data_preprocessing_and_visualisations.ipynb)
 ---
-6. Hypothesis testing
-#### --> [Hypothesis](https://github.com/karinagkhadi/curry-sauce/blob/1db3ea1a6c49298a60c56b1fb229c5f4d2b4d057/NY-shootings-analysis/hypothesis.ipynb)
+6. Hypothesis testing #### --> [Hypothesis](https://github.com/karinagkhadi/curry-sauce/blob/1db3ea1a6c49298a60c56b1fb229c5f4d2b4d057/NY-shootings-analysis/hypothesis.ipynb)
 ---
 8. Training ML model to predict shooting mortality based on the parameters of the incident
 9. Conclusions and interpretation of results

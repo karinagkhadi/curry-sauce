@@ -8,7 +8,7 @@
   <h3>team:</h3>
   <ul>
     <li>Karina Gkhadi</li>
-    <li>Margarita Dzjuraeva</li>
+    <li>Margarita Dzjuraeva (@djri007) </li>
     <li>Laura Nikogosyan</li>
     
   </ul>

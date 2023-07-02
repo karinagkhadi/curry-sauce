@@ -11,12 +11,12 @@ ______
   <p class="smaller-font">Explore more:</p>
   <ol>
     <li>
-      <strong>Data analysis of shootings in New York over the past 20 years</strong>
+      <strong>Data analysis of shootings in New York over the past 20 years, Python</strong>
       <br>
-      <em>Tools used: Python</em>
+      <em></em>
     </li>
     <li>
-      <strong>Data analysis on the current exposure of rental housing in Moscow (June 2023)</strong>
+      <strong>Data analysis on the current exposure of rental housing in Moscow (June 2023), Python</strong>
     </li>
   </ol>
 </body>

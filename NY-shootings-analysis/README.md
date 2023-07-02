@@ -6,7 +6,7 @@
 ### team
 -  [Karina Gkhadi](https://github.com/karinagkhadi)
 -  [Margarita Dzjuraeva](https://github.com/djri007)
--  [Laura Nikogosyan](https://github.com/karinagkhadi/curry-sauce/tree/ce3bb185cc8c1425b1fa6e0a53eac1ce2dfb14f7/rental-housing-market-analysis)
+-  [Laura Nikogosyan]()
 
 ### project description
 We analyzed the statistics of shootings in New York over the past 20 years. We used data collected from various sources to examine the main characteristics of shooting incidents, as well as to identify possible trends and patterns.

@@ -1,4 +1,4 @@
-  [pictire](images/gettyimages-1239934647_custom-72bf5326cb406f85318a6e10d662c87796a68810-s1100-c50.png)  
+  [pictire](gettyimages-1239934647_custom-72bf5326cb406f85318a6e10d662c87796a68810-s1100-c50.png)  
 <!DOCTYPE html>
 <html>
 <head>

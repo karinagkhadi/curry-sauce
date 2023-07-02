@@ -3,7 +3,7 @@
 ### Thank you for your interest in my research projects!
 
 Explore more:
-[Data analysis of shootings in New York over the past 20 years, Python]()
+[Data analysis of shootings in New York over the past 20 years, Python](https://github.com/karinagkhadi/curry-sauce/tree/9da378ac87369b3c77819130779c15d6fdeeb41c/NY-shootings-analysis)
 
 <!DOCTYPE html>
 <html>

@@ -1,7 +1,7 @@
 
 # Research on Shooting Statistics in New York City Over the Past 20 Years🗽
 
-![map](https://github.com/karinagkhadi/curry-sauce/blob/f436cb622e4e9fcf6b90e748a1ab948a7640b0b7/images/Screenshot%202023-07-02%20at%2020.09.27.png)
+![map](https://github.com/karinagkhadi/curry-sauce/blob/5d06ac5f14390ed7e9d44ba3c38ac05ca9213dc3/images/Screenshot%202023-07-02%20at%2020.14.13.png)
 
 ### team
 -  [Karina Gkhadi](https://github.com/karinagkhadi)

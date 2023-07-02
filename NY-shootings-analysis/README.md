@@ -13,6 +13,17 @@ We analyzed the statistics of shootings in New York over the past 20 years. We u
 - [Shooting Incident Data from 2006 (NYC Open Data)](https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8)
 - [List of hospitals (NYC Open Data)](https://data.cityofnewyork.us/Health/Hospitals/833h-xwsx)
 
+### what did we do?
+1. Data parsing 
+2. Calculation of the distance to the nearest hospital for each incident
+3. EDA (exploratory data analysis)
+4. Visualisation and search for patterns
+5. Hypothesis testing
+6. Training ML model to predict shooting mortality based on the parameters of the incident
+7. Conclusions and interpretation of results
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,8 +33,8 @@ We analyzed the statistics of shootings in New York over the past 20 years. We u
   <h3></h3>
   <ul></ul>
   </ul>
-  <h2>Описание проекта</h2>
-  <p>В рамках проекта мы провели анализ статистики шутингов в Нью-Йорке за последние 20 лет. Мы использовали данные, собранные из различных источников, чтобы изучить основные характеристики инцидентов стрельбы, а также выявить возможные тенденции и закономерности.</p>
+  <h2></h2>
+  <p></p>
   <h3>Задачи проекта</h3>
   <ol>
     <li>Загрузка и предобработка данных.</li>  

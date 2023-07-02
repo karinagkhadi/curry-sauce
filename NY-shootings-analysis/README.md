@@ -1,5 +1,5 @@
 
-# Research on Shooting Statistics in New York City Over the Past 20 Years🗽
+## Research on Shooting Statistics in New York City Over the Past 20 Years🗽
 
 ![map](https://github.com/karinagkhadi/curry-sauce/blob/5d06ac5f14390ed7e9d44ba3c38ac05ca9213dc3/images/Screenshot%202023-07-02%20at%2020.14.13.png)
 

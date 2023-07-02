@@ -5,7 +5,7 @@
 Explore more:
 
 -  [Data analysis of shootings in New York over the past 20 years, Python](https://github.com/karinagkhadi/curry-sauce/tree/9da378ac87369b3c77819130779c15d6fdeeb41c/NY-shootings-analysis)
--  [Data analysis on the current exposure of rental housing in Moscow (June 2023)]()
+-  [Data analysis on the current exposure of rental housing in Moscow (June 2023)](https://github.com/karinagkhadi/curry-sauce/tree/ce3bb185cc8c1425b1fa6e0a53eac1ce2dfb14f7/rental-housing-market-analysis)
 
 
 

@@ -4,12 +4,12 @@
 <head>
 </head>
 <body>
-  <h1>Проект по анализу данных на Python "Исследование статистики шутингов в Нью-Йорке за последние 20 лет"</h1>
-  <h2>Команда проекта</h2>
+  <h1>Research on Shooting Statistics in New York City Over the Past 20 Years</h1>
+  <h2>team:</h2>
   <ul>
-    <li>Никогосян Лаура БЭК2110</li>
-    <li>Джураева Маргарита БЭК2110</li>
-    <li>Гхади Карина БЭК218</li>
+    <li>Karina Gkhadi</li>
+    <li>Margarita Dzjuraeva</li>
+    <li>Laura Nikogosyan</li>
     
   </ul>
   <h2>Описание проекта</h2>

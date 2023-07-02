@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Thank you for your interest in my personal research projects</title>
+  <title></title>
   <style>
     .smaller-font {
       font-size: 8px;

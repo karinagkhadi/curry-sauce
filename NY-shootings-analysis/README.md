@@ -1,4 +1,4 @@
-  [pictire](https://github.com/karinagkhadi/curry-sauce/blob/2bd08632e89c1a6787379e48557e7135bb815575/images/gettyimages-1239934647_custom-72bf5326cb406f85318a6e10d662c87796a68810-s1100-c50.png)  
+  [pictire](images/gettyimages-1239934647_custom-72bf5326cb406f85318a6e10d662c87796a68810-s1100-c50.png)  
 <!DOCTYPE html>
 <html>
 <head>

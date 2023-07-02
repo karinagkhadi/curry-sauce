@@ -9,6 +9,3 @@ Explore more:
 
 <img src="cartoons_perfect_data_scientist_female.png" alt="picture" width="300">
 
-
-
-![picture](cartoons_perfect_data_scientist_female.png)

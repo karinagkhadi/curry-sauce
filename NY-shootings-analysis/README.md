@@ -4,7 +4,7 @@
 <head>
 </head>
 <body>
-  <h1>Research on Shooting Statistics in New York City Over the Past 20 Years</h1>
+  <h1>                        Research on Shooting Statistics in New York City Over the Past 20 Years</h1>
   <h3>team:</h3>
   <ul>
     <li>Karina Gkhadi</li>

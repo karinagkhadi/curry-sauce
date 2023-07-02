@@ -20,8 +20,8 @@ We analyzed the statistics of shootings in New York over the past 20 years. We u
 4. Visualization and search for patterns
 
 #### -------------------> [Data preprocessing and visualization](https://github.com/karinagkhadi/curry-sauce/blob/ec30d6b706a7b9942b5eea922df2f4ef587ec0a3/NY-shootings-analysis/data_preprocessing_and_visualisations.ipynb)
-#### ----------------------------> [Interactive map with shooting locations]()
-- - - 
+#### ----------------------------> [Interactive map with shooting locations](https://github.com/karinagkhadi/curry-sauce/blob/e1c0bdea1f1d2957c50e7d078dc01d8d7e5bb712/NY-shootings-analysis/map_NYPD.html)
+****
 6. Hypothesis testing
 #### -------------------> [Hypothesis](https://github.com/karinagkhadi/curry-sauce/blob/1db3ea1a6c49298a60c56b1fb229c5f4d2b4d057/NY-shootings-analysis/hypothesis.ipynb)
 - - - 

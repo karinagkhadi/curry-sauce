@@ -5,7 +5,7 @@
 </head>
 <body>
   <h1>Research on Shooting Statistics in New York City Over the Past 20 Years</h1>
-  <h2>team:</h2>
+  <h3>team:</h3>
   <ul>
     <li>Karina Gkhadi</li>
     <li>Margarita Dzjuraeva</li>

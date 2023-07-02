@@ -4,7 +4,7 @@
 
 Explore more:
 
-#### - [Data analysis of shootings in New York over the past 20 years, Python](https://github.com/karinagkhadi/curry-sauce/blob/a0e0e11b46ea0c410bbe1dc8064caea723c1ac45/NY-shootings-analysis/README.md)
+#### - [Data analysis of shootings in New York over the past 20 years, Python](https://github.com/karinagkhadi/curry-sauce/blob/547f4924479885ea5ba1594a6bef0f0e4b3b3b28/NY-shootings-analysis/README.md)
 #### - [Data analysis on the current exposure of rental housing in Moscow (June 2023)](https://github.com/karinagkhadi/curry-sauce/tree/ce3bb185cc8c1425b1fa6e0a53eac1ce2dfb14f7/rental-housing-market-analysis)
 
 <img src="cartoons_perfect_data_scientist_female.png" alt="picture" width="300">

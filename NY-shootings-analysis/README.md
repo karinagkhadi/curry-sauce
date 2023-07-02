@@ -5,6 +5,7 @@
 </head>
 <body>
   <h2>                        Research on Shooting Statistics in New York City Over the Past 20 Years</h2>
+  [pictire](https://github.com/karinagkhadi/curry-sauce/blob/5a40e33d6beeabf844aa7983a3d866996b75bfea/images/gettyimages-1239934647_custom-72bf5326cb406f85318a6e10d662c87796a68810-s1100-c50.jpeg)  
   <h3>team:</h3>
   <ul>
     <li>Karina Gkhadi</li>

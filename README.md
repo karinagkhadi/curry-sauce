@@ -10,7 +10,7 @@
   <p class="smaller-font">Explore more:</p>
   <ol>
     <li>
-      <strong>Data analysis of shootings in New York over the past 20 years, Python</strong>
+      <strong>[Data analysis of shootings in New York over the past 20 years, Python](NY-shootings-analysis)</strong>
       <br>
       <em></em>
     </li>

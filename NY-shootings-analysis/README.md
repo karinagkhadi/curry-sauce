@@ -5,7 +5,7 @@
 
 ### team
 -  [Karina Gkhadi](https://github.com/karinagkhadi)
--  [Margarita Dzjuraeva](https://github.com/djri007)
+-  [Margarita Dzhuraeva](https://github.com/djri007)
 -  [Laura Nikogosyan]()
 
 ### project description

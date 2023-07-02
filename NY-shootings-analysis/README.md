@@ -17,10 +17,10 @@ We analyzed the statistics of shootings in New York over the past 20 years. We u
 1. Data parsing 
 2. Calculation of the distance to the nearest hospital for each incident
 3. EDA (exploratory data analysis)
-4. Visualisation and search for patterns
+4. Visualization and search for patterns
 
-##### ==> [see more](https://github.com/karinagkhadi/curry-sauce/blob/ec30d6b706a7b9942b5eea922df2f4ef587ec0a3/NY-shootings-analysis/data_preprocessing_and_visualisations.ipynb)
-
+##### ==> [Data preprocessing and visualization](https://github.com/karinagkhadi/curry-sauce/blob/ec30d6b706a7b9942b5eea922df2f4ef587ec0a3/NY-shootings-analysis/data_preprocessing_and_visualisations.ipynb)
+---
 6. Hypothesis testing
 7. Training ML model to predict shooting mortality based on the parameters of the incident
 8. Conclusions and interpretation of results

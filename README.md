@@ -7,7 +7,7 @@ ______
 <html>
 <head>
 <body>
-  <h1>
+  <h1></h1>
   <p class="smaller-font">Explore more:</p>
   <ol>
     <li>

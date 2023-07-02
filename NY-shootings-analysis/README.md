@@ -7,7 +7,7 @@
 -  [Laura Nikogosyan](https://github.com/karinagkhadi/curry-sauce/tree/ce3bb185cc8c1425b1fa6e0a53eac1ce2dfb14f7/rental-housing-market-analysis)
 
 ### data sources:
-- [NYC Open Data](https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8)
+- [Shooting Incident Data from 2006 (NYC Open Data)](https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8)
 - [List of hospitals (NYC Open Data)](https://data.cityofnewyork.us/Health/Hospitals/833h-xwsx)
 
 <!DOCTYPE html>

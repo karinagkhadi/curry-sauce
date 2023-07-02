@@ -2,6 +2,9 @@
 -----
 ### Thank you for your interest in my research projects!
 
+Explore more:
+[Data analysis of shootings in New York over the past 20 years, Python]()
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,7 +13,7 @@
   <p class="smaller-font">Explore more:</p>
   <ol>
     <li>
-      <strong>[Data analysis of shootings in New York over the past 20 years, Python](NY-shootings-analysis)</strong>
+      <strong>[Data analysis of shootings in New York over the past 20 years, Python]</strong>
       <br>
       <em></em>
     </li>
